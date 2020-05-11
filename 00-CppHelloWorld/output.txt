@@ -1,0 +1,3 @@
+[Running] cd "c:\Users\Ju4n\Documents\HolaMundo\" && g++ hello.cpp -o hello && "c:\Users\Ju4n\Documents\HolaMundo\"hello
+Hello World!
+Presione una tecla para continuar . . . 

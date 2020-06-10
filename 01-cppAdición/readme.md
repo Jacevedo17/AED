@@ -26,4 +26,15 @@ a,b ϵ Z
 ___
 
 ## **Representacion visual del algoritmo**
-![imagen](
+![image](https://github.com/Jacevedo17/AED/blob/master/01-cppAdici%C3%B3n/imagenes/Diagrama%20en%20blanco.jpeg)
+___
+
+## **Representación textual**
++ **Leer "a"**
+
++ **Leer "b"**
+
++ **Escribir: a + b**
+___
+
+## **Realizado con Visual Studio (MinGW en Windows 10)**

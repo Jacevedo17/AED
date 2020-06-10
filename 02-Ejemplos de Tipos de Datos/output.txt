@@ -1,0 +1,10 @@
+PS C:\Users\Ju4n\Documents\Algoritmos\Ejemplo tipo de datos> make ejemplotipos
+g++     ejemplotipos.cpp   -o ejemplotipos
+PS C:\Users\Ju4n\Documents\Algoritmos\Ejemplo tipo de datos> ./ejemplotipos.exe
+Nombre: Juan Carlos Chano Acevedo Motta
+Edad: 37
+Dni: 94474594
+Curso: k1051
+Promedio: 7
+El alumno aprobo la materia
+Presione una tecla para continuar . . . 

@@ -15,3 +15,15 @@ Se crearan dos variables enteros, el programa solicitara dichos valores al usuar
 
 ### Modelo IPO
 ![imagen](https://github.com/Jacevedo17/AED/blob/master/01-cppAdici%C3%B3n/imagenes/adicion.jpeg)
+___
+
+## **Etapa 2: Diseño de la solucion**
+___
+
+### **Lexíco:**
+
+a,b ϵ Z
+___
+
+## **Representacion visual del algoritmo**
+![imagen](

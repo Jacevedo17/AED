@@ -1,0 +1,11 @@
+PS C:\Users\Ju4n\Documents\Algoritmos\Adicion> make adicion
+g++     adicion.cpp   -o adicion
+PS C:\Users\Ju4n\Documents\Algoritmos\Adicion> ./adicion.exe
+Ingrese el primer numero: 
+15
+Ingrese el segundo numero: 
+5
+
+El resultado es: 20
+Presione una tecla para continuar . . .
+PS C:\Users\Ju4n\Documents\Algoritmos\Adicion>
